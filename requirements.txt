@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+PyQt5
+PySide2
+pymatgen
+python-docx
